@@ -18,3 +18,16 @@ if num > 0:
     print("Positive Number")
 else:
     print("Not a Positive Number")
+```
+## Q3. Check whether an employee is eligible for a bonus if the salary is less than ₹30,000.
+
+### Code
+```
+salary = int(input("Enter salary: "))
+
+if salary < 30000:
+    print("Eligible for Bonus")
+else:
+    print("Not Eligible for Bonus")
+```
+
